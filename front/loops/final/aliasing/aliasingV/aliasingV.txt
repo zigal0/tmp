@@ -1,0 +1,21 @@
+aliasingNV fzzbikzzzzzzzb
+
+S -> AB
+A -> f 
+B -> CD
+C -> z
+D -> CE
+E -> FG
+F -> b
+G -> HI
+H -> i
+I -> JK
+J -> k
+K -> CL
+L -> CM
+M -> CN
+N -> CO
+O -> CP
+P -> CU
+U -> CF
+[['S','AB'],['A','f'],['B','CD'],['C','z'],['D','CE'],['E','FG'],['F','b'],['G','HI'],['H','i'],['I','JK'],['J','k'],['K','CL'],['L','CM'],['M','CN'],['N','CO'],['O','CP'],['P','CU'],['U','CF']]

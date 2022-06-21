@@ -1,0 +1,11 @@
+strcut ljbi
+
+S -> AB
+A -> l
+B -> CD
+C -> j
+D -> EF
+E -> b
+F -> i
+
+[['S','AB'],['A','l'],['B','CD'],['C','j'],['D','EF'],['E','b'],['F','i']]

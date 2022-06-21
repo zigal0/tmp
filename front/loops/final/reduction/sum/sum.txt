@@ -1,0 +1,13 @@
+sum: kzzbhi
+
+S -> AB
+A -> k 
+B -> CD
+C -> z
+D -> CE
+E -> FG
+F -> b
+G -> HI
+H -> h
+I -> i
+[['S','AB'],['A','k'],['B','CD'],['C','z'],['D','CE'],['E','FG'],['F','b'],['G','HI'],['H','h'],['I','i']]

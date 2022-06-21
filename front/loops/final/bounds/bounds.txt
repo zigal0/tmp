@@ -1,0 +1,13 @@
+voard kzbgc
+
+S -> AB
+A -> k 
+B -> CD
+C -> z
+D -> EF
+E -> b
+F -> GH
+G -> g
+H -> c
+
+[['S','AB'],['A','k'],['B','CD'],['C','z'],['D','EF'],['E','b'],['F','GH'],['G','g'],['H','c']]

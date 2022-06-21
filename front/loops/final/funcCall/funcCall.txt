@@ -1,0 +1,17 @@
+funcCall: kezzmzbi
+
+S -> AB
+A -> k 
+B -> CD
+C -> e
+D -> EF
+E -> z
+F -> EG
+G -> HI
+H -> m
+I -> EJ
+J -> KL
+K -> b
+L -> i
+
+[['S','AB'],['A','k'],['B','CD'],['C','e'],['D','EF'],['E','z'],['F','EG'],['G','HI'],['H','m'],['I','EJ'],['J','KL'],['K','b'],['L','i']]

@@ -1,0 +1,59 @@
+func calls - switch context
+
+a) ideal: 
+- fz*cez*d (fz*cez*gz*d)
+
+S -> AB
+A -> f 
+B -> CD
+C -> '' | CC | z
+D -> EF
+E -> c 
+F -> GH
+G -> e 
+H -> CI
+I -> JK
+j -> g
+K -> CL 
+L -> d
+
+b) our case:
+
+- fzzcezzd (fzzcezgzd)
+S -> AB
+A -> f 
+B -> CD
+C -> z
+D -> CE 
+E -> FG
+F -> c 
+G -> HI
+H -> e 
+I -> CJ
+J -> KL
+K -> g
+L -> CM
+M -> d  
+[['S','AB'],['A','f'],['B','CD'],['C','z'],['D','CE'],['E','FG'],['F','c'],['G','HI'],['H','e'],['I','CJ'],['J','KL'],['K','g'],['L', 'CM'],['M','d']]
+
+c) our case:
+
+- fcezzzzgzzd
+S -> AB
+A -> f 
+B -> CD
+C -> c
+D -> EF 
+E -> e
+F -> GH 
+G -> z
+H -> GI 
+I -> GJ
+J -> GK
+K -> LM
+L -> g
+M -> GN
+N -> GO
+O -> d 
+
+[['S', 'AB'],['A', 'f'],['B', 'CD'],['C', 'c'],['D', 'EF'],['E', 'e'],['F', 'GH'],['G', 'z'],['H', 'GI'] ,['I', 'GJ'],['J', 'GK'],['K', 'LM'],['L', 'g'],['M', 'GN'],['N', 'GO'],['O', 'd']]

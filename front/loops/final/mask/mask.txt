@@ -1,0 +1,14 @@
+mask kckzbi
+
+S -> AB
+A -> k 
+B -> CD
+C -> c
+D -> AE
+E -> FG
+F -> z
+G -> HI
+H -> b
+I -> i
+
+[['S','AB'],['A','k'],['B','CD'],['C','c'],['D','AE'],['E','FG'],['F','z'],['G','HI'],['H','b'],['I','i']]

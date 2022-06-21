@@ -1,0 +1,28 @@
+aliasingNV daezzzzbikzzzzzzzb
+
+S -> AB
+A -> d 
+B -> CD
+C -> a
+D -> EF
+E -> e
+F -> GH
+G -> z
+H -> GI
+I -> GJ
+J -> GK
+K -> LM
+L -> b
+M -> NO
+N -> i
+O -> PQ
+P -> k
+Q -> GR
+R -> GS
+S -> GT
+T -> GU
+U -> GV
+V -> GW
+W -> GL
+
+[['S','AB'],['A','d'],['B','CD'],['C','a'],['D','EF'],['E','e'],['F','GH'],['G','z'],['H','GI'],['I','GJ'],['J','GK'],['K','LM'],['L','b'],['M','NO'],['N','i'],['O','PQ'],['P','k'],['Q','GR'],['R','GS'],['S','GT'],['T','GU'],['U','GV'],['V','GW'],['W','GL']]

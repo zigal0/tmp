@@ -1,0 +1,10 @@
+induction: kzbi
+
+S -> AB
+A -> k 
+B -> CD
+C -> z
+D -> EF
+E -> b
+F -> i
+[['S','AB'],['A','k'],['B','CD'],['C','z'],['D','EF'],['E','b'],['F','i']]
